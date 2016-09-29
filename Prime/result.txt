@@ -1,0 +1,12 @@
+Deploying faster algorithm...		No.10000 prime: 104729		Runtime: 0s
+
+Deploying faster algorithm...		No.100000 prime: 1299709	Runtime: 0.005s
+
+Deploying faster algorithm...		No.1000000 prime: 15485863	Runtime: 0.159s
+
+Deploying algorithm with BigInt...	No.10000 prime: 104729		Runtime: 0.043s
+
+Deploying algorithm with BigInt...	No.100000 prime: 1299709	Runtime: 0.557s
+
+Deploying algorithm with BigInt...	No.1000000 prime: 15485863	Runtime: 7.142s
+
